@@ -1,4 +1,4 @@
-# Diwali Sales Analysis By Python
+ # Diwali Sales Analysis By Python
 
 In this project, I utilized the power of Python and various libraries such as Pandas, NumPy, Matplotlib, and Seaborn to
 conduct an analysis of Diwali sales data.
